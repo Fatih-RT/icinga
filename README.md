@@ -1,4 +1,4 @@
-# README - Mise en place d'une solution de supervision réseau (Icinga2)
+# Icinga2 - Mise en place d'une solution de supervision réseau
 
 ## 📋 Description du projet  
 Ce projet consiste à déployer et configurer la solution de supervision réseau **Icinga2** afin de surveiller les infrastructures réseau, détecter les anomalies, prévenir les pannes et améliorer la disponibilité des services.  
